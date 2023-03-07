@@ -94,7 +94,7 @@ This app was Developed by `Anisa Damayanti, S.Kom`.
 
 `Copyright 2023 All Rights Reserved`.
 
-If you have any feedback or issues regarding this repository, please contact me via email anisadamayanti1012@gmail.com
+If you have any feedback or issues regarding to this repository, please contact me via email anisadamayanti1012@gmail.com
 
 ## Screenshots
 
