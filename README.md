@@ -86,6 +86,6 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 
 ## Credit
 
-This app was developed by `Anisa Damayanti, S.Kom`
+This app was developed by `Anisa Damayanti, S.Kom`.
 
-`Copyright 2023 All Rights Reserved`
+`Copyright 2023 All Rights Reserved`.
