@@ -62,7 +62,7 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 - [mysqlnd](http://php.net/manual/en/mysqlnd.install.php) if you plan to use MySQL
 - [libcurl](http://php.net/manual/en/curl.requirements.php) if you plan to use the HTTP\CURLRequest library
 
-## How To Install this Repository?
+## How to Install this Repository?
 
 - First, make sure you already install the `Git` app.
 - Open the `xampp/htdocs` folder in `Visual Studio Code` then clone this repository using command line `git clone git@github.com:ansdyi/ci4_laundry_multiuser.git`.
