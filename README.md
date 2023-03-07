@@ -84,6 +84,10 @@ Additionally, make sure that the following extensions are enabled in your PHP:
   - username: owner
   - password: owner
 
+![Hak Akses](https://user-images.githubusercontent.com/107469718/223322235-dea4333b-1d25-4256-af7f-e27659d9112d.PNG)
+
+![Relation](https://user-images.githubusercontent.com/107469718/223322243-3f07e93f-d1c9-40c7-bd28-b26f2d2dc59a.PNG)
+
 ## Credit
 
 This app was developed by `Anisa Damayanti, S.Kom`.
@@ -94,6 +98,14 @@ If you have any feedback or issues regarding this repository, please contact me 
 
 ## Screenshoot
 
-(https://user-images.githubusercontent.com/107469718/223320046-8cc975dc-77e0-4f95-b75b-271421037820.png)
+![Login](https://user-images.githubusercontent.com/107469718/223321907-8f1e3d6e-c07c-47f1-9b8d-6a0c64263ca4.png)
 
-![Admin Menu](https://user-images.githubusercontent.com/107469718/223321782-70690206-5701-48e2-9d65-aaabd84ec3fe.png)
+![Admin Dashboard](https://user-images.githubusercontent.com/107469718/223321951-f7b469ab-38bd-4b0f-9b79-6a7c91838256.png)
+
+![Owner Dashboard](https://user-images.githubusercontent.com/107469718/223322279-02fe4f8e-d356-4b03-aac8-5cfc93507dee.png)
+
+![Admin User](https://user-images.githubusercontent.com/107469718/223322385-af26fcc6-f353-4ada-8dd6-61c61f0793d4.png)
+
+![Admin Transaksi](https://user-images.githubusercontent.com/107469718/223322417-570d8663-4483-4f16-807a-1d5fe222ca66.png)
+
+![Admin Laporan](https://user-images.githubusercontent.com/107469718/223322448-2313604b-3320-4739-bebe-e422e9ed9045.png)
