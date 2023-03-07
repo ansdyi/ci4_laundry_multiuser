@@ -73,4 +73,18 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 ## User and Permission
 
 - Role as Admin
-  - Username
+  - username: admin
+  - password: admin
+
+- Role as Kasir
+  - username: kasir
+  - password: kasir
+
+- Role as Owner
+  - username: owner
+  - password: owner
+
+## Credit
+
+This app was developed by `Anisa Damayanti, S.Kom`
+`Copyright 2023`
