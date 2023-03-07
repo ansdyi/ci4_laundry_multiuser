@@ -60,3 +60,11 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 - json (enabled by default - don't turn it off)
 - [mysqlnd](http://php.net/manual/en/mysqlnd.install.php) if you plan to use MySQL
 - [libcurl](http://php.net/manual/en/curl.requirements.php) if you plan to use the HTTP\CURLRequest library
+
+## How To Install this Repository?
+
+- First, make sure you already install the `Git` app.
+- Open the `xampp/htdocs` in `Visual Studio Code` then clone this repository using command `git clone git@github.com:ansdyi/ci4_laundry_multiuser.git`.
+- Open a database server lika `phpmyadmin` or any kind of database server app, and make a database with name `ci4_laundry_mu`. Then import `ci4_laundry_mu` file from folder with name `database` in this repository.
+- Try with call the url `localhost/[nameoffolder]/public` and if you have a problem with error line like `Warning: require(D:\xampp\htdocs\test\ci4_laundry_multiuser\app\Config/../../vendor/codeigniter4/framework/system\bootstrap.php): failed to open stream: No such file or directory in D:\xampp\htdocs\test\ci4_laundry_multiuser\public\index.php on line 38` that means you have to install vendor package with command line `composer require codeigniter4/framework` then `composer update`. Then try to refresh the url.
+- Last, if you have a problem when click button `Generate PDF Report` and the pdf didn't automatic download or any kind of warning error, that means you have to install `tcpdf` with command line `composer require tecnickcom/tcpdf`
