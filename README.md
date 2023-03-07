@@ -1,5 +1,5 @@
 # CodeIgniter 4 Application For Study or Research Purposes Only!!!
-# Laundry Website with Multiuser using CodeIgniter4 v.4.3.1 and Bootstrap AdminLTE v.3.2.0
+# Laundry Website with Multiuser using CodeIgniter 4 v.4.3.1 and Bootstrap AdminLTE v.3.2.0
 
 ## What is CodeIgniter?
 
