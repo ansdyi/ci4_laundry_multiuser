@@ -94,5 +94,6 @@ If you have any feedback or issues regarding this repository, please contact me 
 
 ## Screenshoot
 
-![Login](https://user-images.githubusercontent.com/107469718/223320046-8cc975dc-77e0-4f95-b75b-271421037820.png)
+(https://user-images.githubusercontent.com/107469718/223320046-8cc975dc-77e0-4f95-b75b-271421037820.png)
 
+![Admin Menu](https://user-images.githubusercontent.com/107469718/223321782-70690206-5701-48e2-9d65-aaabd84ec3fe.png)
