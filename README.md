@@ -96,7 +96,7 @@ This app was Developed by `Anisa Damayanti, S.Kom`.
 
 If you have any feedback or issues regarding this repository, please contact me via email anisadamayanti1012@gmail.com
 
-## Screenshoot
+## Screenshots
 
 ![Login](https://user-images.githubusercontent.com/107469718/223321907-8f1e3d6e-c07c-47f1-9b8d-6a0c64263ca4.png)
 
