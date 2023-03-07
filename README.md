@@ -108,4 +108,6 @@ If you have any feedback or issues regarding this repository, please contact me 
 
 ![Admin Transaksi](https://user-images.githubusercontent.com/107469718/223322417-570d8663-4483-4f16-807a-1d5fe222ca66.png)
 
+![Kasir Transaksi](https://user-images.githubusercontent.com/107469718/223421046-dae5e260-4ab2-4dcd-8826-f939685c4d36.png)
+
 ![Admin Laporan](https://user-images.githubusercontent.com/107469718/223322448-2313604b-3320-4739-bebe-e422e9ed9045.png)
