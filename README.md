@@ -1,5 +1,5 @@
 # CodeIgniter 4 Application Starter For Studies or Reseach Only!!
-# Laundry App With Multiuser Using CodeIgniter 4 v.4.3.1 and Bootstrap AdminLTE v.3.2.0
+# Laundry App With Multiuser Using CodeIgniter4 v.4.3.1 and Bootstrap AdminLTE v.3.2.0
 
 ## What is CodeIgniter?
 
@@ -68,4 +68,4 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 - Open the `xampp/htdocs` in `Visual Studio Code` then clone this repository using command line `git clone git@github.com:ansdyi/ci4_laundry_multiuser.git`.
 - Open a database server like `phpmyadmin` or any kind of database server app, and make a database with name `ci4_laundry_mu`. Then import `ci4_laundry_mu.sql` file, from folder with name `database` in this repository.
 - Try with call the url `localhost/[nameoffolder]/public` and if you have a problem with error line like `Warning: require(D:\xampp\htdocs\test\ci4_laundry_multiuser\app\Config/../../vendor/codeigniter4/framework/system\bootstrap.php): failed to open stream: No such file or directory in D:\xampp\htdocs\test\ci4_laundry_multiuser\public\index.php on line 38` that means you have to install vendor package with command line `composer require codeigniter4/framework` then `composer update`. Then try to refresh the url.
-- Last, if you have a problem when click button `Generate PDF Report` and the pdf didn't automatically download or any kind of warning error, that means you have to install `tcpdf` with command line `composer require tecnickcom/tcpdf`
+- Last, if you have a problem when click button `Generate PDF Report` and the pdf didn't automatically download or any kind of warning error, that means you have to install `tcpdf` with command line `composer require tecnickcom/tcpdf`.
